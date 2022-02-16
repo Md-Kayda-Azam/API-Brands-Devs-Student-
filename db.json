@@ -1,0 +1,143 @@
+{
+    "Product_Brands"         : [
+        {
+            "Id"            :  1,
+            "Model"         : "Apple iPhone 13 Pro Max",
+            "Price"         : "BDT. 1,62,999",
+            "Display"       : "6.7″ 1284×2778 pixels",
+            "RAM"           : "6GB",
+            "ROM"           : "128/256/512 GB / 1TB",
+            "Photo"         : "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-1.jpg"
+        },
+        {
+            "Id"            :  2,
+            "Model"         : "Google Pixel 6 Pro",
+            "Price"         : "BDT. 1.00,000",
+            "Display"       : "6.67″1080×2400 pixels",
+            "RAM"           : "12 GB",
+            "ROM"           : "128/256/512 GB",
+            "Photo"         : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-sn37edsvFRPFGYobXF0XY-wtkdtkoNLwrw&usqp=CAU"
+        },
+        {
+            "Id"            :  3,
+            "Model"         : "Oppo Find X3 Pro",
+            "Price"         : "BDT. 94,000",
+            "Display"       : "6.7″1440×3216 pixels",
+            "RAM"           : "8/12 GB",
+            "ROM"           : "256 GB",
+            "Photo"         : "https://www.oppo.com/content/dam/oppo/product-asset-library/find-x3-series/weu-find-x3-pro/v2/assets/selling.jpg"
+        },
+        {
+            "Id"            :  4,
+            "Model"         : "OnePlus 9 Pro",
+            "Price"         : "BDT. 53,500",
+            "Display"       : "6.7″1440×3216 pixels",
+            "RAM"           : "8/12 GB",
+            "ROM"           : "128/256 GB",
+            "Photo"         : "https://www.mobiledokan.co/wp-content/uploads/2020/10/OnePlus-9-Pro-Stellar-Black.jpg"
+        },
+        {
+            "Id"            :  5,
+            "Model"         : "Sony Xperia 1 III",
+            "Price"         : "BDT. 1,38,000",
+            "Display"       : "6.5″1644×3840 pixels",
+            "RAM"           : "12 GB",
+            "ROM"           : "256/512 GB",
+            "Photo"         : "https://www.mobiledokan.co/wp-content/uploads/2020/09/Sony-Xperia-1-III.jpg"
+        }
+    ],
+    "Devs"                   : [
+        {
+            "Id"            : 1,
+            "Name"          : "Md Kayda Azam",
+            "Skill"         : "MERN Stack",
+            "Location"      : "Dinajpur",
+            "Gender"        : "Male",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/240972821_269959844963930_7804839334129987680_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=8f1xeh9HyQ0AX-aCfHi&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-P9PV689n-AQIq5sFwi_f9rWba3T-qX7JwC5Qao1oQTQ&oe=6212D6D7"
+        },
+        {
+            "Id"            : 2,
+            "Name"          : "Mark Zuckerberg ",
+            "Skill"         : "MERN Stack",
+            "Location"      : "Dobbs Ferry, New York",
+            "Gender"        : "Male",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/79515135_10111007623880301_5111576226921709568_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lFn0uwb6gYwAX8SIiIw&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-hRiraFbpNAqH8NFgenFJXN6Z3ANVfAiXh1CjfKvxe0g&oe=623122D6"
+        },
+        {
+            "Id"            : 3,
+            "Name"          : "Bill Gates",
+            "Skill"         : "Different Language",
+            "Location"      : "Lake Washington in Medina, Washington",
+            "Gender"        : "Male",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/274054035_502374894586781_4269170301085168965_n.jpg?stp=dst-jpg_s526x395&_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=o9YFOXsJrukAX_HNghu&_nc_oc=AQlQ6jWKJx2t8kt78XFbSu5dDWBDEYbAh2us3RCXKpa9jadVC_ReYsROu5KvqHoPnJo&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-nsPf6sE1Senv9i2GoDgXiFEr0zW02MUZtLtNGpG-U2Q&oe=62112277"
+        },
+        {
+            "Id"            : 4,
+            "Name"          : "Jeff Bezos",
+            "Skill"         : "Different Language",
+            "Location"      : "Medina neighborhood of Seattle",
+            "Gender"        : "Male",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/273630939_316390120467974_5238337073651956560_n.jpg?stp=c52.0.206.206a_dst-jpg_p206x206&_nc_cat=106&ccb=1-5&_nc_sid=8024bb&_nc_ohc=s6Vf4rRD1Q8AX8apkx1&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8sZKOeD05O-Gsb-NBPH779B9qPWUcopytxGCdVCQHtMg&oe=6211EC4B"
+        },
+        {
+            "Id"            : 5,
+            "Name"          : "Elon Musk",
+            "Skill"         : "Different Language",
+            "Location"      : "Boca Chica",
+            "Gender"        : "Male",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/240972821_269959844963930_7804839334129987680_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=8f1xeh9HyQ0AX-aCfHi&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-P9PV689n-AQIq5sFwi_f9rWba3T-qX7JwC5Qao1oQTQ&oe=6212D6D7"
+        }
+    ],
+    "Student"               : [
+        {
+            "Id"            : 1,
+            "Name"          : "Md Kayda Azam",
+            "Roll"          : 125478,
+            "Reg"           : 5478965321,
+            "Father Name"   : "Md Islam",
+            "Gender"        : "Male",
+            "Location"      : "Dinajpur",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/240972821_269959844963930_7804839334129987680_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=8f1xeh9HyQ0AX-aCfHi&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-P9PV689n-AQIq5sFwi_f9rWba3T-qX7JwC5Qao1oQTQ&oe=6212D6D7"
+        },
+        {
+            "Id"            : 2,
+            "Name"          : "TASLIMA AKTER LIZA",
+            "Roll"          : 123578,
+            "Reg"           : 8677720222,
+            "Father Name"   : "Md LAL MIA ",
+            "Gender"        : "Female",
+            "Location"      : "Nadekana",
+            "Photo"         : "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/272060032_1080620192793727_7710515608068185719_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=utvR3C9zVi0AX8MCt_a&tn=LW-XWMlpBHwr_q6y&_nc_ht=scontent.fdac24-2.fna&oh=00_AT9zGBJQe0gbL64PCakcphWsl_84_fv0g8Eo1QeoR3_itg&oe=6211C3CE"
+        },
+        {
+            "Id"            : 3,
+            "Name"          : "MD. MAIN UDDIN ",
+            "Roll"          : 364478,
+            "Reg"           : 2377858101,
+            "Father Name"   : "MD ABUL HASEM",
+            "Gender"        : "Male",
+            "Location"      : "Nadekana",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/48398451_368960353889313_4540402089733390336_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=YkcZdev4YMQAX80PweR&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_bqQLiAGmvpY1RhnTXQYrCFqDceROcRZDOWRAYPCrR2g&oe=62336A38"
+        },
+        {
+            "Id"            : 4,
+            "Name"          : "LIMA AKTER ",
+            "Roll"          : 198478,
+            "Reg"           : 5541504089,
+            "Father Name"   : "Md KHAIRUL AMIN",
+            "Gender"        : "Female",
+            "Location"      : "Nadekana",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/s206x206/106195716_111747753932390_1374523177301835011_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=85a577&_nc_ohc=cpvY43tM_-EAX9FnGuX&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_izPAxnYWLdMMrvHePtI3ib2-S0DG8KhT_Jv7xvSoj-w&oe=62345F08"
+        },
+        {
+            "Id"            : 5,
+            "Name"          : "FATEMA BEGUM ",
+            "Roll"          : 248478,
+            "Reg"           : 5541504089,
+            "Father Name"   : "Md KHAIRUL AMIN ",
+            "Gender"        : "Female",
+            "Location"      : "Nadekana",
+            "Photo"         : "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.18169-9/15672590_600244150159673_4985951252545338403_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=9267fe&_nc_ohc=QsWyt9lL7OcAX9zjIAb&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8aI8cmvSBnrMsf6W2KlHT9YdNdoG9VbzxSaGBC4CZvMg&oe=623459D7"
+        }
+    ]
+}

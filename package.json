@@ -1,0 +1,14 @@
+{
+  "name": "class-18",
+  "version": "1.0.0",
+  "description": "This is developer team REST API for mobile and react developer",
+  "main": "index.js",
+  "scripts": {
+    "Azam": "json-server --watch db.json --port 5050"
+  },
+  "author": "Azam",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
